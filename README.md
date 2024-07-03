@@ -30,5 +30,5 @@
   <img width="" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="32" alt="mysql logo"  />
 </div>
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&lines=Sometimes+it+%27works%27" alt="typing..."  />
 ###
